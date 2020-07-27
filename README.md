@@ -2,6 +2,6 @@
 Testing
 First steps in git and github
 # New Tests
-Pull test
+Push test
 new text
 
